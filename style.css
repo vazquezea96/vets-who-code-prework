@@ -7,3 +7,35 @@ html {
   color: white;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#about-me {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-info {
+  text-wrap:balance;
+}
+
+section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#military-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+}
