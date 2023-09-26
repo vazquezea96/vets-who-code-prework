@@ -22,7 +22,15 @@ header {
 }
 
 .text-info {
-  text-wrap:balance;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
 }
 
 section img {
@@ -37,5 +45,6 @@ section img {
   align-items: center;
 }
 
-footer {
+footer p {
+  text-align: center;
 }
